@@ -45,24 +45,24 @@ document.addEventListener('DOMContentLoaded', () => {
         populateSelect(functionFilter, functions);
     }
 
-    // --- Change is here ---
     function renderTable(papers) {
         papersContainer.innerHTML = ''; 
 
-        // Change Point 1: Update colspan for "no results" message, now 11 columns
+        // Change 1: Update the colspan to 12 for the "no results" message
         if (papers.length === 0) {
-            papersContainer.innerHTML = '<tr><td colspan="11">No matching papers found.</td></tr>';
+            papersContainer.innerHTML = '<tr><td colspan="12">No matching papers found.</td></tr>';
             return;
         }
 
         papers.forEach((paper, index) => {
-            // Change Point 2: Add new <td> elements to the template string
+            // Change 2: Add the <td> element for Venue data here
             const row = `
-                <tr>
+                <tr onclick="window.open('${paper.DOI}', '_blank')">
                     <td>${index + 1}</td>
                     <td>${paper.Title || ''}</td>
                     <td>${paper.Author || ''}</td>
                     <td>${paper.Year || ''}</td>
+                    <td>${paper.Venue || ''}</td>
                     <td>${paper['Origami or Kirigami'] || ''}</td>
                     <td>${paper.Material || ''}</td>
                     <td>${paper.Manufacturing || ''}</td>
@@ -112,6 +112,6 @@ document.addEventListener('DOMContentLoaded', () => {
         inputFilter.value = 'all';
         outputFilter.value = 'all';
         functionFilter.value = 'all';
-        renderTable(allPapers);
+        renderTable(allPapers); // Switched to renderTable to avoid re-filtering an empty set
     });
 });

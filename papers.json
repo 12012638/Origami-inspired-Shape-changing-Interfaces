@@ -1641,8 +1641,8 @@
     "Title": "Evaluating the Effectiveness of Physical Shape-Change for In-pocket Mobile Device Notifications",
     "DOI": "https://doi.org/10.1145/2556288.2557164",
     "Author": "Panteleimon Dimitriadis, Jason Alexander",
-    "Year": "",
-    "Venue": "",
+    "Year": "2014",
+    "Venue": "CHI",
     "Origami or Kirigami": "Folding-based Origami",
     "Material": "Paper",
     "Manufacturing": "Laser processing",
@@ -1662,5 +1662,44 @@
     "Input": "Environment-responsive",
     "Output": "Folding and Unfolding",
     "Function": "Information Transmission"
+  },
+  {
+    "Title": "Origami-Inspired Shape-Changing Phased Array",
+    "DOI": "10.23919/EuMC48046.2021.9338189",
+    "Author": "D. Elliott Williams;Charles Dorn;Sergio Pellegrino;Ali Hajimiri",
+    "Year": "2020",
+    "Venue": "IEEE",
+    "Origami or Kirigami": "Cutting-based Kirigami",
+    "Material": "Composite",
+    "Manufacturing": "Lamination",
+    "Input": "Mechanical",
+    "Output": "Folding and Unfolding",
+    "Function": "Manipulation and Simulation "
+  },
+  {
+    "Title": "Origami and kirigami inspired self-folding for programming three-dimensional shape shifting of polymer sheets with light",
+    "DOI": "http://dx.doi.org/10.1016/j.eml.2016.08.004",
+    "Author": "Qiuting Zhang, Jonathon Wommer, Connor O’Rourke, Joseph Teitelman, Yichao Tang, Joshua Robison, Gaojian Lin, Jie Yin",
+    "Year": "2016",
+    "Venue": "Extreme Mechanics Letters",
+    "Origami or Kirigami": "Folding-based Origami",
+    "Material": "Composite",
+    "Manufacturing": "Lamination",
+    "Input": "Environment-responsive",
+    "Output": "Bending and Twisting",
+    "Function": "Adaption and Self-reconfiguration "
+  },
+  {
+    "Title": "Solar-powered shape-changing origami microfliers",
+    "DOI": "10.1126/scirobotics.adg4276",
+    "Author": "Kyle Johnson, Vicente Arroyos, Amélie Ferran, Raul Villanueva, Dennis Yin, Tilboon Elberier, Alberto Aliseda, Sawyer Fuller, Vikram Iyer, Shyamnath Gollakota",
+    "Year": "2023",
+    "Venue": "SCIENCE ROBOTICS",
+    "Origami or Kirigami": "Folding-based Origami",
+    "Material": "Composite",
+    "Manufacturing": "Lamination",
+    "Input": "Environment-responsive",
+    "Output": "Folding and Unfolding",
+    "Function": "Adaption and Self-reconfiguration"
   }
 ]
