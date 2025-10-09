@@ -2,65 +2,68 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     line-height: 1.6;
     color: #333;
-    background-color: #f9f9f9;
+    background-color: #f8f9fa;
     margin: 0;
     padding: 20px;
 }
 
 .container {
-    max-width: 1800px; 
-    margin: 0 auto;
+    max-width: 1900px; 
+    margin: 20px auto;
     background-color: #fff;
-    padding: 40px; /* Increased padding for header space */
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    padding: 50px;
+    border-radius: 12px;
+    border: 1px solid #e9ecef;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
 }
 
-/* --- Change Point: New header section styles --- */
 .header-section {
-    text-align: center; /* Center all text inside */
-    margin-bottom: 40px; /* Create space below for the filters */
+    text-align: center;
+    margin-bottom: 50px;
 }
 
 .header-section h1 {
-    font-size: 2.5em; /* Increase title font size */
-    font-weight: 300; /* Make the font a bit thinner */
-    color: #1a1a1a;
-    margin-bottom: 15px;
+    font-size: 2.8em;
+    font-weight: 700;
 }
 
 .header-section h1 strong {
-    font-weight: 700; /* Make text inside <strong> tag bold */
+    font-weight: 900;
 }
 
 .header-section p {
-    font-size: 1.1em; /* Increase intro text font size */
-    color: #555; /* Use a softer dark gray */
-    max-width: 800px; /* Limit max width for better readability */
-    margin-left: auto; /* In combination with the next line, centers the block */
-    margin-right: auto; /* In combination with the previous line, centers the block */
-    font-weight: 300; /* ADDED: Set the font-weight to light */
+    font-size: 1.1em;
+    color: #6c757d;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.8;
+    font-weight: 300;
 }
-/* --- End of new styles --- */
-
 
 #filters {
-    margin-bottom: 20px;
+    margin-bottom: 40px; /* Increased space before the card grid */
     display: flex;
     flex-wrap: wrap;
-    gap: 15px; 
+    gap: 20px;
     align-items: center;
-    justify-content: center; /* Center the filters as well */
-    border-top: 1px solid #eee; /* Add a separator line */
-    padding-top: 30px; /* Add space above the filters */
+    justify-content: center;
+    border-top: 1px solid #e9ecef;
+    padding-top: 40px;
 }
 
 #filters select, #filters button {
-    padding: 8px 12px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
+    padding: 10px 14px;
+    border: 1px solid #ced4da;
+    border-radius: 6px;
     font-size: 14px;
     background-color: #fff;
+    transition: all 0.2s ease-in-out;
+}
+
+#filters select:hover {
+    border-color: #888;
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.1);
 }
 
 #filters button {
@@ -68,44 +71,125 @@ body {
     background-color: #007bff;
     color: white;
     border-color: #007bff;
-    transition: background-color 0.2s;
 }
 
 #filters button:hover {
     background-color: #0056b3;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
-table {
+/* --- Core Change: New styles for the card grid layout --- */
+.papers-grid {
+    display: grid;
+    /* Automatically create as many columns as possible, with a min width of 300px and max of 1fr */
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 30px; /* Space between cards */
+}
+
+.paper-card {
+    background-color: #fff;
+    border: 1px solid #e9ecef;
+    border-radius: 12px;
+    overflow: hidden; /* Ensures image corner radius is applied */
+    cursor: pointer;
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    display: flex;
+    flex-direction: column;
+}
+
+.paper-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.paper-card img {
     width: 100%;
-    border-collapse: collapse;
-    margin-top: 20px;
-    font-size: 13px;
+    height: 180px;
+    object-fit: cover; /* Prevents image distortion */
+    background-color: #f8f9fa;
 }
 
-th, td {
-    padding: 10px;
-    border: 1px solid #ddd;
-    text-align: left;
-    vertical-align: top;
+.paper-card h3 {
+    font-size: 1.1em;
+    font-weight: 600;
+    margin: 15px 20px 10px;
+    color: #212529;
+    flex-grow: 1; /* Allows the title area to grow, aligning tags at the bottom */
 }
 
-thead {
-    background-color: #f2f2f2;
+.paper-card .meta-info {
+    font-size: 0.85em;
+    color: #6c757d;
+    margin: 0 20px;
+    padding-bottom: 15px;
 }
 
-tbody tr:nth-child(even) {
-    background-color: #f9f9f9;
+.paper-card .tags {
+    margin: 0 20px 15px;
 }
 
-td:nth-child(2) {
-    width: 25%;
+.paper-card .tag {
+    display: inline-block;
+    padding: 4px 10px;
+    border-radius: 15px;
+    font-size: 0.75em;
+    font-weight: 500;
+    margin-right: 6px;
+    margin-bottom: 6px;
 }
 
-a {
-    color: #007bff;
-    text-decoration: none;
+/* Set different colors for different tag types */
+.tag.material {
+    background-color: #e7f5ff;
+    color: #1971c2;
 }
 
-a:hover {
-    text-decoration: underline;
+.tag.function {
+    background-color: #fff0f6;
+    color: #d6336c;
+}
+
+.no-results {
+    color: #6c757d;
+    font-size: 1.2em;
+    text-align: center;
+    padding: 40px;
+    grid-column: 1 / -1; /* Makes the message span the entire grid width */
+}
+
+/* --- 变化点：为新增的标签类型添加颜色 --- */
+
+/* 这是你已有的颜色，为了完整性放在这里 */
+.tag.material {
+    background-color: #e7f5ff; /* 淡蓝色 */
+    color: #1971c2;
+}
+
+.tag.function {
+    background-color: #fff0f6; /* 淡粉色 */
+    color: #d6336c;
+}
+
+/* --- 下面是为新标签添加的颜色 --- */
+
+.tag.origami-type {
+    background-color: #e6fcf5; /* 淡绿色 */
+    color: #087f5b;
+}
+
+.tag.manufacturing {
+    background-color: #f1f3f5; /* 淡灰色 */
+    color: #495057;
+}
+
+.tag.input {
+    background-color: #fff9db; /* 淡黄色 */
+    color: #b69500;
+}
+
+.tag.output {
+    background-color: #f3f0ff; /* 淡紫色 */
+    color: #5f3dc4;
 }

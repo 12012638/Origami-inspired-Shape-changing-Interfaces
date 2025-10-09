@@ -3,19 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Origami/Kirigami Paper Explorer</title>
+    <title>Origami for Shape-changing Interfaces Paper Explorer</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
     <div class="container">
-        
+
         <div class="header-section">
-            <h1><strong>Origami for Shape-changing Interfaces</strong> Paper Explorer</h1>
+            <h1><b>Origami for Shape-changing Interfaces</b> Paper Explorer</h1>
             <p>
                 Welcome to this interactive explorer for research papers on origami and kirigami for shape-changing interfaces. This project aims to document and categorize research in this domain. We provide a simple tool for researchers to explore the corpus of these transformative interfaces based on the provided filters.
             </p>
-
         </div>
 
         <div id="filters">
@@ -41,25 +40,8 @@
             <button id="reset-button">Reset Filters</button>
         </div>
 
-        <table id="papers-table">
-            <thead>
-                <tr>
-                    <th>#</th>
-                    <th>Title</th>
-                    <th>Author</th>
-                    <th>Year</th>
-                    <th>Venue</th>
-                    <th>Type</th>
-                    <th>Material</th>
-                    <th>Manufacturing</th>
-                    <th>Input</th>
-                    <th>Output</th>
-                    <th>Function</th>
-                    <th>DOI</th>
-                </tr>
-            </thead>
-            <tbody id="papers-container"></tbody>
-        </table>
+        <div id="papers-container" class="papers-grid">
+            </div>
 
     </div>
 

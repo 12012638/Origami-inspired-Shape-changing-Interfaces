@@ -16,9 +16,9 @@ document.addEventListener('DOMContentLoaded', () => {
         .then(data => {
             allPapers = data;
             populateFilters(allPapers);
-            renderTable(allPapers);
+            renderPapers(allPapers);
         })
-        .catch(error => console.error('Error reading paper data:', error));
+        .catch(error => console.error('Error fetching paper data:', error));
 
     function populateFilters(papers) {
         const origamiTypes = [...new Set(papers.map(p => p['Origami or Kirigami']).filter(Boolean))].sort();
@@ -45,38 +45,67 @@ document.addEventListener('DOMContentLoaded', () => {
         populateSelect(functionFilter, functions);
     }
 
-    function renderTable(papers) {
+    function renderPapers(papers) {
         papersContainer.innerHTML = ''; 
 
-        // Change 1: Update the colspan to 12 for the "no results" message
         if (papers.length === 0) {
-            papersContainer.innerHTML = '<tr><td colspan="12">No matching papers found.</td></tr>';
+            papersContainer.innerHTML = '<p class="no-results">No matching papers found.</p>';
             return;
         }
 
-        papers.forEach((paper, index) => {
-            // Change 2: Add the <td> element for Venue data here
-            const row = `
-                <tr onclick="window.open('${paper.DOI}', '_blank')">
-                    <td>${index + 1}</td>
-                    <td>${paper.Title || ''}</td>
-                    <td>${paper.Author || ''}</td>
-                    <td>${paper.Year || ''}</td>
-                    <td>${paper.Venue || ''}</td>
-                    <td>${paper['Origami or Kirigami'] || ''}</td>
-                    <td>${paper.Material || ''}</td>
-                    <td>${paper.Manufacturing || ''}</td>
-                    <td>${paper.Input || ''}</td>
-                    <td>${paper.Output || ''}</td>
-                    <td>${paper.Function || ''}</td>
-                    <td><a href="${paper.DOI}" target="_blank">Link</a></td>
-                </tr>
-            `;
-            papersContainer.innerHTML += row;
+        papers.forEach(paper => {
+            const card = document.createElement('div');
+            card.className = 'paper-card';
+            card.onclick = () => window.open(paper.DOI, '_blank');
+
+            const cardImage = document.createElement('img');
+            cardImage.src = paper.image || 'images/default.jpg'; 
+            cardImage.alt = paper.Title;
+            cardImage.onerror = () => { cardImage.src = 'images/default.jpg'; };
+
+            const cardTitle = document.createElement('h3');
+            cardTitle.textContent = paper.Title;
+
+            const cardMeta = document.createElement('p');
+            cardMeta.className = 'meta-info';
+            const firstAuthor = paper.Author ? paper.Author.split(',')[0] : 'N/A';
+            cardMeta.textContent = `${firstAuthor} et al. | ${paper.Year} | ${paper.Venue}`;
+            
+            // --- 核心变化：在这里为所有维度创建标签 ---
+            const cardTags = document.createElement('div');
+            cardTags.className = 'tags';
+
+            if (paper['Origami or Kirigami']) {
+                cardTags.innerHTML += `<span class="tag origami-type">${paper['Origami or Kirigami']}</span>`;
+            }
+            if (paper.Material) {
+                cardTags.innerHTML += `<span class="tag material">${paper.Material}</span>`;
+            }
+            if (paper.Manufacturing) {
+                cardTags.innerHTML += `<span class="tag manufacturing">${paper.Manufacturing}</span>`;
+            }
+            if (paper.Input) {
+                cardTags.innerHTML += `<span class="tag input">${paper.Input}</span>`;
+            }
+            if (paper.Output) {
+                cardTags.innerHTML += `<span class="tag output">${paper.Output}</span>`;
+            }
+            if (paper.Function) {
+                cardTags.innerHTML += `<span class="tag function">${paper.Function}</span>`;
+            }
+            // --- 变化结束 ---
+
+            card.appendChild(cardImage);
+            card.appendChild(cardTitle);
+            card.appendChild(cardMeta);
+            card.appendChild(cardTags);
+            
+            papersContainer.appendChild(card);
         });
     }
 
     function applyFilters() {
+        // ... (此函数无需改动) ...
         const selectedOrigami = origamiFilter.value;
         const selectedMaterial = materialFilter.value;
         const selectedManufacturing = manufacturingFilter.value;
@@ -95,9 +124,10 @@ document.addEventListener('DOMContentLoaded', () => {
             return origamiMatch && materialMatch && manufacturingMatch && inputMatch && outputMatch && functionMatch;
         });
 
-        renderTable(filteredPapers);
+        renderPapers(filteredPapers);
     }
     
+    // ... (事件监听器和重置按钮逻辑无需改动) ...
     origamiFilter.addEventListener('change', applyFilters);
     materialFilter.addEventListener('change', applyFilters);
     manufacturingFilter.addEventListener('change', applyFilters);
@@ -112,6 +142,6 @@ document.addEventListener('DOMContentLoaded', () => {
         inputFilter.value = 'all';
         outputFilter.value = 'all';
         functionFilter.value = 'all';
-        renderTable(allPapers); // Switched to renderTable to avoid re-filtering an empty set
+        renderPapers(allPapers);
     });
 });

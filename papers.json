@@ -10,7 +10,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Environment-responsive",
     "Output": "Bending and Twisting",
-    "Function": "Expression and Experience"
+    "Function": "Expression and Experience",
+    "image": "images/image1.png"
   },
   {
     "Title": "AutoGami: A Low-cost Rapid Prototyping Toolkit for Automated Movable Paper Craft",
@@ -23,7 +24,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Bending and Twisting",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image2.png"
   },
   {
     "Title": "Conformal, Seamless, Sustainable: Multimorphic Textile-forms as a Material-Driven Design Approach for HCI",
@@ -36,7 +38,8 @@
     "Manufacturing": "Handmade",
     "Input": "Manual",
     "Output": "Folding and Unfolding",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image3.png"
   },
   {
     "Title": "Creating Furniture-Scale Deployable Objects with a Computer-Controlled Sewing Machine",
@@ -49,7 +52,8 @@
     "Manufacturing": "Lamination",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image4.png"
   },
   {
     "Title": "DisplayFab: The State of the Art and a Roadmap in the Personal Fabrication of Free-Form Displays Using Active Materials and Additive Manufacturing",
@@ -62,7 +66,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Manual",
     "Output": "Bending and Twisting",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image5.png"
   },
   {
     "Title": "Don't Crosstalk to Me: Origami Structure-Augmented Sensing for Scalable Surface Pressure Monitoring",
@@ -75,7 +80,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Mechanical",
     "Output": "Inflation and Contraction",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image6.png"
   },
   {
     "Title": "ElectriPop: Low-Cost, Shape-Changing Displays Using Electrostatically Inflated Mylar Sheets",
@@ -88,7 +94,8 @@
     "Manufacturing": "Laser processing",
     "Input": "Environment-responsive",
     "Output": "Bending and Twisting",
-    "Function": "Expression and Experience"
+    "Function": "Expression and Experience",
+    "image": "images/image7.png"
   },
   {
     "Title": "Element: An Ambient Display System for Evoking Self-Reflections and Supporting Social-Interactions in a Workspace",
@@ -101,7 +108,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Inflation and Contraction",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image8.png"
   },
   {
     "Title": "Flex tiles: Designing Customisable Shape-Change in Textiles with SMA-Actuated Smocking Patterns",
@@ -114,7 +122,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Surface Texture Modulation",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image9.png"
   },
   {
     "Title": "FoldTronics: Creating 3D Objects with Integrated Electronics Using Foldable Honeycomb Structures",
@@ -127,7 +136,8 @@
     "Manufacturing": "Laser processing",
     "Input": "Manual",
     "Output": "Folding and Unfolding",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image10.png"
   },
   {
     "Title": "How Users Manipulate Deformable Displays as Input Devices",
@@ -140,7 +150,8 @@
     "Manufacturing": "Handmade",
     "Input": "Manual",
     "Output": "Folding and Unfolding",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image11.png"
   },
   {
     "Title": "InflatableMod: Untethered and Reconfigurable Inflatable Modules for Tabletop-sized Pneumatic Physical Interfaces",
@@ -153,7 +164,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Inflation and Contraction",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image12.png"
   },
   {
     "Title": "Kirigami Haptic Swatches: Design Methods for Cut-and-Fold Haptic Feedback Mechanisms",
@@ -166,7 +178,8 @@
     "Manufacturing": "Laser processing",
     "Input": "Manual",
     "Output": "Bending and Twisting",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image13.png"
   },
   {
     "Title": "KirigamiTable: Designing for Proxemic Transitions with a Shape-Changing Tabletop",
@@ -179,7 +192,8 @@
     "Manufacturing": "Laser processing",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image14.png"
   },
   {
     "Title": "Metamaterial Textures",
@@ -192,7 +206,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Mechanical",
     "Output": "Surface Texture Modulation",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image15.png"
   },
   {
     "Title": "Morphees: Toward High \"\"Shape Resolution\"\" in Self-Actuated Flexible Mobile Devices",
@@ -205,7 +220,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image16.png"
   },
   {
     "Title": "Multi-plié: a Linear Foldable and Flattenable Interactive Display to Support Efficiency, Safety and Collaboration Exploring and Ironing out Design Complexities with Airliner Pilots",
@@ -218,7 +234,8 @@
     "Manufacturing": "Lamination",
     "Input": "Manual",
     "Output": "Folding and Unfolding",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image17.png"
   },
   {
     "Title": "Organic Primitives: Synthesis and Design of pH-Reactive Materials using Molecular I/O for Sensing, Actuation, and Interaction",
@@ -231,7 +248,8 @@
     "Manufacturing": "Handmade",
     "Input": "Environment-responsive",
     "Output": "Bending and Twisting",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image18.png"
   },
   {
     "Title": "Origami Sensei: A Mixed Reality AI-Assistant",
@@ -244,7 +262,8 @@
     "Manufacturing": "Handmade",
     "Input": "Manual",
     "Output": "Folding and Unfolding",
-    "Function": "Expression and Experience"
+    "Function": "Expression and Experience",
+    "image": "images/image19.png"
   },
   {
     "Title": "Origami Tessellation Display: Interaction Techniques Using Origami-based Deformable Surfaces",
@@ -257,7 +276,8 @@
     "Manufacturing": "Handmade",
     "Input": "Manual",
     "Output": "Folding and Unfolding",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image20.png"
   },
   {
     "Title": "Paddle: Highly Deformable Mobile Devices with Physical Controls",
@@ -270,7 +290,8 @@
     "Manufacturing": "Handmade",
     "Input": "Manual",
     "Output": "Folding and Unfolding",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image21.png"
   },
   {
     "Title": "PaperTouch: Tangible Interfaces through Paper Craft and Touchscreen Devices",
@@ -283,7 +304,8 @@
     "Manufacturing": "Handmade",
     "Input": "Manual",
     "Output": "Folding and Unfolding",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image22.png"
   },
   {
     "Title": "Patch-O: Deformable Woven Patches for On-body Actuation",
@@ -296,7 +318,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image23.png"
   },
   {
     "Title": "PneuMesh: Pneumatic-driven Truss-based Shape Changing System",
@@ -309,7 +332,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Inflation and Contraction",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image24.png"
   },
   {
     "Title": "Robotic Metamaterials: A Modular System for Hands-On Configuration of Ad-Hoc Dynamic Applications",
@@ -322,7 +346,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Mechanical",
     "Output": "Bending and Twisting",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image25.png"
   },
   {
     "Title": "Soft Electrohydraulic Actuators for Origami Inspired Shape-Changing Interfaces",
@@ -335,7 +360,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image26.png"
   },
   {
     "Title": "Stretching the Bounds of 3D Printing with Embedded Textiles",
@@ -348,7 +374,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Manual",
     "Output": "Bending and Twisting",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image27.png"
   },
   {
     "Title": "Study and Design of a Shape-Shifting Wall Display",
@@ -361,7 +388,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image28.png"
   },
   {
     "Title": "Waxpaper Actuator: Sequentially and Conditionally Programmable Wax Paper for Morphing Interfaces",
@@ -374,7 +402,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Environment-responsive",
     "Output": "Bending and Twisting",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image29.png"
   },
   {
     "Title": "Rapid Fabrication of Haptic and Electric Input Interfaces using 4D Printed Origami",
@@ -387,7 +416,8 @@
     "Manufacturing": "Laser processing",
     "Input": "Manual",
     "Output": "Bending and Twisting",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image30.png"
   },
   {
     "Title": "ActuEating: Designing, Studying and Exploring Actuating Decorative Artefacts",
@@ -400,7 +430,8 @@
     "Manufacturing": "Handmade",
     "Input": "Manual",
     "Output": "Folding and Unfolding",
-    "Function": "Expression and Experience"
+    "Function": "Expression and Experience",
+    "image": "images/image31.png"
   },
   {
     "Title": "AnimaStage: Hands-on Animated Craft on Pin-based Shape Displays",
@@ -413,7 +444,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Bending and Twisting",
-    "Function": "Expression and Experience"
+    "Function": "Expression and Experience",
+    "image": "images/image32.png"
   },
   {
     "Title": "Digital Fabrication of Soft Actuated Objects by Machine Knitting",
@@ -426,7 +458,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Bending and Twisting",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image33.png"
   },
   {
     "Title": "Electriflow: Soft Electrohydraulic Building Blocks for Prototyping Shape-changing Interfaces",
@@ -439,7 +472,8 @@
     "Manufacturing": "Lamination",
     "Input": "Mechanical",
     "Output": "Inflation and Contraction",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image34.png"
   },
   {
     "Title": "ExpanDial: Designing a Shape-Changing Dial",
@@ -452,7 +486,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Bending and Twisting",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image35.png"
   },
   {
     "Title": "FlexTure: Designing Configurable and Dynamic Surface Features",
@@ -465,7 +500,8 @@
     "Manufacturing": "Laser processing",
     "Input": "Manual",
     "Output": "Surface Texture Modulation",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image36.png"
   },
   {
     "Title": "Happy Moves, Sad Grooves: Using Theories of Biological Motion and Affect to Design Shape-Changing Interfaces",
@@ -478,7 +514,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image37.png"
   },
   {
     "Title": "I'll Knock You When I'm Ready… Reflecting on Media Richness Beyond Bandwidth and Imitation",
@@ -491,7 +528,8 @@
     "Manufacturing": "Laser processing",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image38.png"
   },
   {
     "Title": "Lifting Kirigami Actuators Up Where They Belong: Possibilities for SCI",
@@ -504,7 +542,8 @@
     "Manufacturing": "Laser processing",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image39.png"
   },
   {
     "Title": "MiuraKit: A Modular Hands-On Construction Kit For Pneumatic Shape-Changing And Robotic Interfaces",
@@ -517,7 +556,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Inflation and Contraction",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image40.png"
   },
   {
     "Title": "Morphino: A Nature-Inspired Tool for the Design of Shape-Changing Interfaces",
@@ -530,7 +570,8 @@
     "Manufacturing": "Handmade",
     "Input": "Environment-responsive",
     "Output": "Folding and Unfolding",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image41.png"
   },
   {
     "Title": "MorphIO: Entirely Soft Sensing and Actuation Modules for Programming Shape Changes through Tangible Interaction",
@@ -543,7 +584,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Bending and Twisting",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image42.png"
   },
   {
     "Title": "PolySurface: A Design Approach for Rapid Prototyping of Shape-Changing Displays Using Semi-Solid Surfaces",
@@ -556,7 +598,8 @@
     "Manufacturing": "Laser processing",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image43.png"
   },
   {
     "Title": "SoftBioMorph: Fabricating Sustainable Shape-changing Interfaces using Soft Biopolymers",
@@ -569,7 +612,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Inflation and Contraction",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image44.png"
   },
   {
     "Title": "The Magnetic Primitive Library: A Platform for Designing Shape-Changing Interactions",
@@ -582,7 +626,8 @@
     "Manufacturing": "Lamination",
     "Input": "Environment-responsive",
     "Output": "Bending and Twisting",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image45.png"
   },
   {
     "Title": "VISMOCK: A Programmable Smocking Technique for Creating Interactive Data Physicalization",
@@ -595,7 +640,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Surface Texture Modulation",
-    "Function": "Expression and Experience"
+    "Function": "Expression and Experience",
+    "image": "images/image46.png"
   },
   {
     "Title": "WristOrigami: Exploring Foldable Design for Multi-Display Smartwatch",
@@ -608,7 +654,8 @@
     "Manufacturing": "Lamination",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image47.png"
   },
   {
     "Title": "aeroMorph - Heat-sealing Inflatable Shape-change Materials for Interaction Design",
@@ -621,7 +668,8 @@
     "Manufacturing": "Lamination",
     "Input": "Mechanical",
     "Output": "Inflation and Contraction",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image48.png"
   },
   {
     "Title": "Demonstrating ex-CHOCHIN: Shape/Texture-changing cylindrical interface with deformable origami tessellation",
@@ -634,7 +682,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Surface Texture Modulation",
-    "Function": "Expression and Experience"
+    "Function": "Expression and Experience",
+    "image": "images/image49.png"
   },
   {
     "Title": "Embrogami: Shape-Changing Textiles with Machine Embroidery",
@@ -647,7 +696,8 @@
     "Manufacturing": "Lamination",
     "Input": "Manual",
     "Output": "Bending and Twisting",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image50.png"
   },
   {
     "Title": "Foldio: Digital Fabrication of Interactive and Shape-Changing Objects With Foldable Printed Electronics",
@@ -660,7 +710,8 @@
     "Manufacturing": "Handmade",
     "Input": "Manual",
     "Output": "Folding and Unfolding",
-    "Function": "Expression and Experience"
+    "Function": "Expression and Experience",
+    "image": "images/image51.png"
   },
   {
     "Title": "milliMorph - Fluid-Driven Thin Film Shape-Change Materials for Interaction Design",
@@ -673,7 +724,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Bending and Twisting",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image52.png"
   },
   {
     "Title": "PneUI: Pneumatically Actuated Soft Composite Materials for Shape Changing Interfaces",
@@ -686,7 +738,8 @@
     "Manufacturing": "Lamination",
     "Input": "Mechanical",
     "Output": "Inflation and Contraction",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image53.png"
   },
   {
     "Title": "PneuSeries: 3D Shape Forming with Modularized Serial-Connected Inflatables",
@@ -699,7 +752,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Inflation and Contraction",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image54.png"
   },
   {
     "Title": "uniMorph - Fabricating Thin-Film Composites for Shape-Changing Interfaces",
@@ -712,7 +766,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Environment-responsive",
     "Output": "Bending and Twisting",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image55.png"
   },
   {
     "Title": "X-Bridges: Designing Tunable Bridges to Enrich 3D Printed Objects' Deformation and Stiffness",
@@ -725,7 +780,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Manual",
     "Output": "Folding and Unfolding",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image56.png"
   },
   {
     "Title": "Shutters: A Permeable Surface for Environmental Control and Communication",
@@ -738,7 +794,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Bending and Twisting",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image57.png"
   },
   {
     "Title": "Easigami: Virtual Creation by Physical Folding",
@@ -751,7 +808,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image58.png"
   },
   {
     "Title": "The Functional Aesthetic of Folding, Self-Similar Interactions",
@@ -764,7 +822,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Inflation and Contraction",
-    "Function": "Expression and Experience"
+    "Function": "Expression and Experience",
+    "image": "images/image59.png"
   },
   {
     "Title": "Choreographic Architecture: Inscribing Instructions in an Auxetic Based Material System",
@@ -777,7 +836,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Mechanical",
     "Output": "Inflation and Contraction",
-    "Function": "Expression and Experience"
+    "Function": "Expression and Experience",
+    "image": "images/image60.png"
   },
   {
     "Title": "Lumina: A Soft Kinetic Material for Morphing Architectural Skins and Organic User Interfaces",
@@ -790,7 +850,8 @@
     "Manufacturing": "Lamination",
     "Input": "Mechanical",
     "Output": "Surface Texture Modulation",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image61.png"
   },
   {
     "Title": "The Textility of Emotion: A Study Relating Computational Textile Textural Expression to Emotion",
@@ -803,7 +864,8 @@
     "Manufacturing": "Lamination",
     "Input": "Mechanical",
     "Output": "Surface Texture Modulation",
-    "Function": "Expression and Experience"
+    "Function": "Expression and Experience",
+    "image": "images/image62.png"
   },
   {
     "Title": "Meteorosensitive architecture: Biomimetic building skins based on materially embedded and hygroscopically enabled responsiveness",
@@ -816,7 +878,8 @@
     "Manufacturing": "Lamination",
     "Input": "Environment-responsive",
     "Output": "Bending and Twisting",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image63.png"
   },
   {
     "Title": "Sticky Actuator: Free-Form Planar Actuators for Animated Objects",
@@ -829,7 +892,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Bending and Twisting",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image64.png"
   },
   {
     "Title": "KnobSlider : Conception d'un Dispositif Déformable Répondant aux Besoins des Utilisateurs",
@@ -842,7 +906,8 @@
     "Manufacturing": "Handmade",
     "Input": "Manual",
     "Output": "Bending and Twisting",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image65.png"
   },
   {
     "Title": "Balancing User and System Control in Shape-Changing Interfaces: a Designerly Exploration",
@@ -855,7 +920,8 @@
     "Manufacturing": "Lamination",
     "Input": "Manual",
     "Output": "Inflation and Contraction",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image66.png"
   },
   {
     "Title": "LivingSurface: Biofeedback through Shape-changing Display",
@@ -868,7 +934,8 @@
     "Manufacturing": "Laser processing",
     "Input": "Mechanical",
     "Output": "Surface Texture Modulation",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image67.png"
   },
   {
     "Title": "HaptoBend: Shape-Changing Passive Haptic Feedback in Virtual Reality",
@@ -881,7 +948,8 @@
     "Manufacturing": "Handmade",
     "Input": "Manual",
     "Output": "Folding and Unfolding",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image68.png"
   },
   {
     "Title": "An Exploration of Mobile Shape-Changing Textures",
@@ -894,7 +962,8 @@
     "Manufacturing": "Lamination",
     "Input": "Mechanical",
     "Output": "Surface Texture Modulation",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image69.png"
   },
   {
     "Title": "Interactive Architecture: Exploring and Unwrapping the Potentials of Organic User Interfaces",
@@ -907,7 +976,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image70.png"
   },
   {
     "Title": "Printing ferromagnetic domains for untethered fast-transforming soft materials",
@@ -920,7 +990,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Environment-responsive",
     "Output": "Folding and Unfolding",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image71.png"
   },
   {
     "Title": "FoldWatch: Using Origami-Inspired Paper Prototypes to Explore the Extension of Output Space in Smartwatches",
@@ -933,7 +1004,8 @@
     "Manufacturing": "Handmade",
     "Input": "Manual",
     "Output": "Folding and Unfolding",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image72.png"
   },
   {
     "Title": "Demo: Origami Robots with Flexible Printed Circuit Sheets",
@@ -946,7 +1018,8 @@
     "Manufacturing": "Laser processing",
     "Input": "Environment-responsive",
     "Output": "Folding and Unfolding",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image73.png"
   },
   {
     "Title": "3D Printed Responsive Wood Interfaces: Shape-Changing Origami-Inspired Prototypes",
@@ -959,7 +1032,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Environment-responsive",
     "Output": "Bending and Twisting",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image74.png"
   },
   {
     "Title": "Is Deafness A Disability? Designing Hearing Aids Beyond Functionality",
@@ -972,7 +1046,8 @@
     "Manufacturing": "Laser processing",
     "Input": "Mechanical",
     "Output": "Bending and Twisting",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image75.png"
   },
   {
     "Title": "Peristaltic locomotion without digital controllers: Exploiting multi-stability in origami to coordinate robotic motion",
@@ -985,7 +1060,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image76.png"
   },
   {
     "Title": "Bridging the Gap Between Material Science and Human-Computer Interaction",
@@ -998,7 +1074,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Surface Texture Modulation",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image77.png"
   },
   {
     "Title": "Stretchable and Transparent Kirigami Conductor of Nanowire Percolation Network for Electronic Skin Applications",
@@ -1011,7 +1088,8 @@
     "Manufacturing": "Laser processing",
     "Input": "Manual",
     "Output": "Surface Texture Modulation",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image78.png"
   },
   {
     "Title": "A portable three-degrees-of-freedom force feedback origami robot for human–robot interactions",
@@ -1024,7 +1102,8 @@
     "Manufacturing": "Lamination",
     "Input": "Manual",
     "Output": "Folding and Unfolding",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image79.png"
   },
   {
     "Title": "Pillbot: a soft origami robot inspired by pill bugs",
@@ -1037,7 +1116,8 @@
     "Manufacturing": "Lamination",
     "Input": "Mechanical",
     "Output": "Inflation and Contraction",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image80.png"
   },
   {
     "Title": "Multifunctional Mesostructures: Design and Material Programming for 4D-printing",
@@ -1050,7 +1130,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Environment-responsive",
     "Output": "Bending and Twisting",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image81.png"
   },
   {
     "Title": "Self-shaping Curved Folding: A 4D-printing method for fabrication of self-folding curved crease structures",
@@ -1063,7 +1144,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Environment-responsive",
     "Output": "Folding and Unfolding",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image82.png"
   },
   {
     "Title": "3D Origami Sensing Robots for Cooperative Healthcare Monitoring",
@@ -1076,7 +1158,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Mechanical",
     "Output": "Bending and Twisting",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image83.png"
   },
   {
     "Title": "Electro-Active and Photo-Active Vanadium Oxide Nanowire Thermo-Hygroscopic Actuators for Kirigami Pop-up",
@@ -1089,7 +1172,8 @@
     "Manufacturing": "Laser processing",
     "Input": "Environment-responsive",
     "Output": "Bending and Twisting",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image84.png"
   },
   {
     "Title": "Paper-based origami transducer capable of both sensing and actuation",
@@ -1102,20 +1186,22 @@
     "Manufacturing": "Lamination",
     "Input": "Environment-responsive",
     "Output": "Folding and Unfolding",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image85.png"
   },
   {
     "Title": "Haptigami: a fingertip haptic interface with vibrotactile and 3-DoF cutaneous force feedback",
     "DOI": "10.1109/TOH.2021.3104216",
     "Author": "Frederic H. Giraud, Sagar Joshi, Jamie Paik",
     "Year": "2021",
-    "Venue": "IEEE Transactions on Haptics ",
+    "Venue": "IEEE Transactions on Haptics ",
     "Origami or Kirigami": "Folding-based Origami",
     "Material": "Composite",
     "Manufacturing": "Lamination",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image86.png"
   },
   {
     "Title": "Magnetform: a Shape-change Display Toolkit for Material-oriented Designers",
@@ -1128,7 +1214,8 @@
     "Manufacturing": "Laser processing",
     "Input": "Environment-responsive",
     "Output": "Surface Texture Modulation",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image87.png"
   },
   {
     "Title": "Shape Changing Fabric Samples for Interactive Fashion Design",
@@ -1141,7 +1228,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Inflation and Contraction",
-    "Function": "Expression and Experience"
+    "Function": "Expression and Experience",
+    "image": "images/image88.png"
   },
   {
     "Title": "Therms-Up!: DIY Inflatables and Interactive Materials by Upcycling Wasted Thermoplastic Bags",
@@ -1154,7 +1242,8 @@
     "Manufacturing": "Lamination",
     "Input": "Mechanical",
     "Output": "Inflation and Contraction",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image89.png"
   },
   {
     "Title": "\"\"Ah That is Cute, I Will Stay Away!\"\" Wearer Experiences of a Backpack with Shape-Changing Accessory for Keeping Social Distance to Others in Public Context",
@@ -1167,7 +1256,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image90.png"
   },
   {
     "Title": "FingerPrint : A 3-D Printed Soft Monolithic 4-Degree-of-Freedom Fingertip Haptic Device with Embedded Actuation",
@@ -1180,7 +1270,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Mechanical",
     "Output": "Bending and Twisting",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image91.png"
   },
   {
     "Title": "MoLux: Negotiating Control with a Shape-Changing Lamp at Home",
@@ -1193,7 +1284,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Inflation and Contraction",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image92.png"
   },
   {
     "Title": "Woven Behavior and Ornamentation: Simulation-Assisted Design and Application of Self-Shaping Woven Textiles",
@@ -1206,7 +1298,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Surface Texture Modulation",
-    "Function": "Expression and Experience"
+    "Function": "Expression and Experience",
+    "image": "images/image93.png"
   },
   {
     "Title": "INCORPORATING SHAPE-CHANGING FOOD MATERIALS INTO EVERYDAY CULINARY PRACTICES: Guidelines Informed by Participatory Sessions with Chefs Involving Edible pH-responsive Origami Structures",
@@ -1219,7 +1312,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Environment-responsive",
     "Output": "Folding and Unfolding",
-    "Function": "Expression and Experience"
+    "Function": "Expression and Experience",
+    "image": "images/image94.png"
   },
   {
     "Title": "Understanding How to Support Remote Co-Design with a Conceptual Modular Shape-Changing Interface Toolkit",
@@ -1232,7 +1326,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Bending and Twisting",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image95.png"
   },
   {
     "Title": "Haptic Mushroom: a 3-DoF shape-changing encounter-type haptic device with interchangeable end-effectors",
@@ -1245,7 +1340,8 @@
     "Manufacturing": "Lamination",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image96.png"
   },
   {
     "Title": "Inkjet 4D Print: Self-folding Tessellated Origami Objects by Inkjet UV Printing",
@@ -1258,7 +1354,8 @@
     "Manufacturing": "Lamination",
     "Input": "Environment-responsive",
     "Output": "Folding and Unfolding",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image97.png"
   },
   {
     "Title": "Active Materials for Functional Origami",
@@ -1271,7 +1368,8 @@
     "Manufacturing": "Handmade",
     "Input": "Environment-responsive",
     "Output": "Folding and Unfolding",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image98.png"
   },
   {
     "Title": "Simultaneous Space: Re-envisioning the Role of the Designer-Maker through the Production and Design of Origami Tessellations",
@@ -1284,7 +1382,8 @@
     "Manufacturing": "Handmade",
     "Input": "Manual",
     "Output": "Folding and Unfolding",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image99.png"
   },
   {
     "Title": "4D printed origami-inspired accordion, Kresling and Yoshimura tubes",
@@ -1297,7 +1396,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Environment-responsive",
     "Output": "Folding and Unfolding",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image100.png"
   },
   {
     "Title": "THE CREATION OF A HOLISTIC INTERACTIVE DINING EXPERIENCE WITH SHAPE-CHANGING FOOD MATERIALS AT RESTAURANT ALCHEMIST",
@@ -1310,7 +1410,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Environment-responsive",
     "Output": "Folding and Unfolding",
-    "Function": "Expression and Experience"
+    "Function": "Expression and Experience",
+    "image": "images/image101.png"
   },
   {
     "Title": "Crane: An Integrated Computational Design Platform for Functional, Foldable, and Fabricable Origami Products",
@@ -1323,7 +1424,8 @@
     "Manufacturing": "Laser processing",
     "Input": "Manual",
     "Output": "Folding and Unfolding",
-    "Function": "Expression and Experience"
+    "Function": "Expression and Experience",
+    "image": "images/image102.png"
   },
   {
     "Title": "Design Methodology for a 3D Printable Multi-Degree of Freedom Soft Actuator Using Geometric Origami Patterns",
@@ -1336,7 +1438,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Mechanical",
     "Output": "Bending and Twisting",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image103.png"
   },
   {
     "Title": "Kiri-Spoon: A Soft Shape-Changing Utensil for Robot-Assisted Feeding",
@@ -1349,7 +1452,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Bending and Twisting",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image104.png"
   },
   {
     "Title": "3D Folded PrintGami: Transform Passive 3D Printed Objects to Interactive by Inserted Paper Origami Circuits",
@@ -1362,7 +1466,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Manual",
     "Output": "Folding and Unfolding",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image105.png"
   },
   {
     "Title": "Mimosa: Modular Self-folding Hinges Kit for Creating Shape-changing Objects",
@@ -1375,7 +1480,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image106.png"
   },
   {
     "Title": "Fold-Cut Structures with Tunable Stiffness for Multimorphing Soft Robots",
@@ -1388,7 +1494,8 @@
     "Manufacturing": "Laser processing",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image107.png"
   },
   {
     "Title": "Bio-inspired deployable cable-driven origami gripper with variable finger length for space capture",
@@ -1401,7 +1508,8 @@
     "Manufacturing": "Laser processing",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image108.png"
   },
   {
     "Title": "Designing a Socially Interactive Robotic Origami Canopy for Augmenting Art Viewing Experiences",
@@ -1414,7 +1522,8 @@
     "Manufacturing": "Laser processing",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image109.png"
   },
   {
     "Title": "Origami Echo: Adaptable Acoustics",
@@ -1427,7 +1536,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image110.png"
   },
   {
     "Title": "Design and Application of a Bionic Origami Mechanism Based on Adjustable Bistability",
@@ -1440,7 +1550,8 @@
     "Manufacturing": "Laser processing",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image111.png"
   },
   {
     "Title": "RadioGami: Batteryless, Long-range Wireless Paper Sensors Using Tunnel Diodes",
@@ -1453,7 +1564,8 @@
     "Manufacturing": "Handmade",
     "Input": "Manual",
     "Output": "Folding and Unfolding",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image112.png"
   },
   {
     "Title": "OriBot: a novel origami robot creation system to support children's STEAM learning",
@@ -1466,7 +1578,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Expression and Experience"
+    "Function": "Expression and Experience",
+    "image": "images/image113.png"
   },
   {
     "Title": "LaserOrigami: Laser-Cutting 3D Objects",
@@ -1479,7 +1592,8 @@
     "Manufacturing": "Laser processing",
     "Input": "Manual",
     "Output": "Folding and Unfolding",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image114.png"
   },
   {
     "Title": "Pneumatic Laser Origami: Rapid and Large-Scale Fabrication of Laser-Welded Pouch Motors for Shape-Changing Products",
@@ -1492,7 +1606,8 @@
     "Manufacturing": "Laser processing",
     "Input": "Mechanical",
     "Output": "Inflation and Contraction",
-    "Function": "Expression and Experience"
+    "Function": "Expression and Experience",
+    "image": "images/image115.png"
   },
   {
     "Title": "ReactFold: Towards Camera-based Tangible Interaction on Passive Paper Artifacts",
@@ -1505,7 +1620,8 @@
     "Manufacturing": "Handmade",
     "Input": "Manual",
     "Output": "Folding and Unfolding",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image116.png"
   },
   {
     "Title": "ThreadTessel: A Modularized Tangible Toolkit Leveraging Origami Tessellation for Designing Thread-actuated Shape-changing Structures",
@@ -1518,7 +1634,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Expression and Experience"
+    "Function": "Expression and Experience",
+    "image": "images/image117.png"
   },
   {
     "Title": "Shiftly: A Novel Origami Shape-Shifting Haptic Device for Virtual Reality",
@@ -1531,7 +1648,8 @@
     "Manufacturing": "Handmade",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image118.png"
   },
   {
     "Title": "jamSheets: Thin Interfaces with Tunable Stiffness Enabled by Layer Jamming",
@@ -1544,7 +1662,8 @@
     "Manufacturing": "Lamination",
     "Input": "Manual",
     "Output": "Bending and Twisting",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image119.png"
   },
   {
     "Title": "OSCaR: An Origami-Inspired Shape-Changing Robot for Ground Coverage Tasks",
@@ -1557,7 +1676,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image120.png"
   },
   {
     "Title": "Programmable matter by folding",
@@ -1570,7 +1690,8 @@
     "Manufacturing": "Lamination",
     "Input": "Mechanical",
     "Output": "Bending and Twisting",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image121.png"
   },
   {
     "Title": "Printed Paper Actuator: A Low-cost Reversible Actuation and Sensing Method for Shape Changing Interfaces",
@@ -1583,7 +1704,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Environment-responsive",
     "Output": "Bending and Twisting",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image122.png"
   },
   {
     "Title": "Origami engineering: Creating dynamic functional materials through folded structures",
@@ -1596,7 +1718,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image123.png"
   },
   {
     "Title": "Thermorph: Democratizing 4D Printing of Self-Folding Materials and Interfaces",
@@ -1609,7 +1732,8 @@
     "Manufacturing": "3D Printing",
     "Input": "Environment-responsive",
     "Output": "Bending and Twisting",
-    "Function": "Expression and Experience"
+    "Function": "Expression and Experience",
+    "image": "images/image124.png"
   },
   {
     "Title": "SnapInflatables: Designing Inflatables with Snap-through Instability for Responsive Interaction",
@@ -1622,7 +1746,8 @@
     "Manufacturing": "Lamination",
     "Input": "Mechanical",
     "Output": "Bending and Twisting",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image125.png"
   },
   {
     "Title": "Design of Shape Morphing Cellular Structures and Their Actuation Methods",
@@ -1635,12 +1760,13 @@
     "Manufacturing": "Laser processing",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Manipulation and Simulation"
+    "Function": "Manipulation and Simulation",
+    "image": "images/image126.png"
   },
   {
     "Title": "Evaluating the Effectiveness of Physical Shape-Change for In-pocket Mobile Device Notifications",
     "DOI": "https://doi.org/10.1145/2556288.2557164",
-    "Author": "Panteleimon Dimitriadis, Jason Alexander",
+    "Author": "Panteleimon Dimitriadis, Jason Alexander",
     "Year": "2014",
     "Venue": "CHI",
     "Origami or Kirigami": "Folding-based Origami",
@@ -1648,7 +1774,8 @@
     "Manufacturing": "Laser processing",
     "Input": "Mechanical",
     "Output": "Inflation and Contraction",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image127.png"
   },
   {
     "Title": "Azalea: Co-experience in Remote Dialog through Diminished Reality and Somaesthetic Interaction Design",
@@ -1661,7 +1788,8 @@
     "Manufacturing": "Laser processing",
     "Input": "Environment-responsive",
     "Output": "Folding and Unfolding",
-    "Function": "Information Transmission"
+    "Function": "Information Transmission",
+    "image": "images/image128.png"
   },
   {
     "Title": "Origami-Inspired Shape-Changing Phased Array",
@@ -1674,7 +1802,8 @@
     "Manufacturing": "Lamination",
     "Input": "Mechanical",
     "Output": "Folding and Unfolding",
-    "Function": "Manipulation and Simulation "
+    "Function": "Manipulation and Simulation ",
+    "image": "images/image129.png"
   },
   {
     "Title": "Origami and kirigami inspired self-folding for programming three-dimensional shape shifting of polymer sheets with light",
@@ -1687,7 +1816,8 @@
     "Manufacturing": "Lamination",
     "Input": "Environment-responsive",
     "Output": "Bending and Twisting",
-    "Function": "Adaption and Self-reconfiguration "
+    "Function": "Adaption and Self-reconfiguration ",
+    "image": "images/image130.png"
   },
   {
     "Title": "Solar-powered shape-changing origami microfliers",
@@ -1700,6 +1830,7 @@
     "Manufacturing": "Lamination",
     "Input": "Environment-responsive",
     "Output": "Folding and Unfolding",
-    "Function": "Adaption and Self-reconfiguration"
+    "Function": "Adaption and Self-reconfiguration",
+    "image": "images/image131.png"
   }
 ]
